@@ -19,6 +19,18 @@ conda activate dlbasics
 pip install -r requirements.txt
 ```
 
+```bash
+python3.10 -m venv dlbasics
+source dlbasics/bin/activate
+pip install -r requirements.txt
+```
+
+```bash
+python3.10 -m venv clip
+source clip/bin/activate
+```
+
+
 ## ベースラインモデルを動かす
 
 ### 訓練

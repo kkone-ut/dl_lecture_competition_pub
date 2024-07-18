@@ -15,8 +15,8 @@ use_wandb: True
 data_dir: data
 image_dir: images
 
-filter_flag: False
-baseline_flag: False
+filter_flag: True
+baseline_flag: True
 
 # Evaluation
 model_path:
